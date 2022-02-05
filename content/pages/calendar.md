@@ -4,51 +4,491 @@ title: Calendar
 uid: 1be00e9d-5052-1f89-57be-4a085b2f3f9b
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week 1**{{< /td-colspan >}} |||
-| 1 | First Studio / Background Material / Lee Cott |  |
-| 2 | Talk with Magda Fernadez / Discussion of Cuba / Interviews |  |
-| {{< td-colspan 3 >}}**Week 2**{{< /td-colspan >}} |||
-| 3 |  | Assignment #1 due |
-| 4 | Work/Crits/Interviews |  |
-| 5 | Work/Crits/Interviews |  |
-| {{< td-colspan 3 >}}**Week 3**{{< /td-colspan >}} |||
-| 6 |  | Assignment #2 due |
-| 7 | Leave for Cuba / Overnight in Miami |  |
-| {{< td-colspan 3 >}}**Week 4**{{< /td-colspan >}} |||
-| 8 | Arrive in Cuba |  |
-| 9-11 | Cuba |  |
-| 12 | Leave Cuba |  |
-| 13 | Discussion of Trip |  |
-| 14 |  | Assignment #3 due |
-| {{< td-colspan 3 >}}**Week 5**{{< /td-colspan >}} |||
-| 15-16 | Work/Crits |  |
-| 17 | Midterm | Assignment #4 due |
-| {{< td-colspan 3 >}}**Week 6**{{< /td-colspan >}} |||
-| 18-20 | Work/Crits |  |
-| {{< td-colspan 3 >}}**Week 7**{{< /td-colspan >}} |||
-| 21 | Work/Crits |  |
-| 22 | Midterm Review |  |
-| 23 | Discussion of Midterm |  |
-| {{< td-colspan 3 >}}**Week 8**{{< /td-colspan >}} |||
-| 24-26 | Work/Crits |  |
-| {{< td-colspan 3 >}}**Week 9**{{< /td-colspan >}} |||
-| 27 |  | Assignment #5 due |
-| 28 | Work/Crits, Sketch Problem |  |
-| 29 | Work/Crits |  |
-| {{< td-colspan 3 >}}**Week 10**{{< /td-colspan >}} |||
-| 30 |  | Assignment #6 due |
-| 31-32 | Work/Crits |  |
-| {{< td-colspan 3 >}}**Week 11**{{< /td-colspan >}} |||
-| 33 | Work/Crits |  |
-| 34 |  | Assignment #7 due |
-| {{< td-colspan 3 >}}**Week 12**{{< /td-colspan >}} |||
-| 35 | Work/Crits  {{< br >}}  {{< br >}}Field Trip to Zimmerman House, FLW |  |
-| 36-37 | Work/Crits |  |
-| {{< td-colspan 3 >}}**Week 13**{{< /td-colspan >}} |||
-| 38 |  | Final Assignment due |
-| 39-40 | Revision |  |
-| {{< td-colspan 3 >}}**Week 14**{{< /td-colspan >}} |||
-| 41 | Revision |  |
-| 42 | Final Review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+First Studio / Background Material / Lee Cott
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Talk with Magda Fernadez / Discussion of Cuba / Interviews
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits/Interviews
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits/Interviews
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Leave for Cuba / Overnight in Miami
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Arrive in Cuba
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Cuba
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Leave Cuba
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Trip
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-20
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-26
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits, Sketch Problem
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31-32
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits  
+  
+Field Trip to Zimmerman House, FLW
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36-37
+{{< tdclose >}}
+{{< tdopen >}}
+Work/Crits
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39-40
+{{< tdclose >}}
+{{< tdopen >}}
+Revision
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Revision
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
