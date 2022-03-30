@@ -8,6 +8,7 @@ image_metadata:
   caption: Jan Wampler with Cherie Abbanat filming the house.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Jan Wampler with Cherie Abbanat filming the house.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba08.jpg
 uid: 7d78525a-6b47-8ddf-0523-3d1b900b91d0

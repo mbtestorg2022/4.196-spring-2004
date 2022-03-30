@@ -8,6 +8,7 @@ image_metadata:
   caption: Site along the Malecon.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Site along the Malecon.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba01.jpg
 uid: 4da71e5d-e1ae-ad21-74e1-a451f362ffb0

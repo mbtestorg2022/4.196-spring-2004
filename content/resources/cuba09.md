@@ -8,6 +8,7 @@ image_metadata:
   caption: A coffee plantation.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: A coffee plantation.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba09.jpg
 uid: df090512-a020-c024-f9fd-927e37ec9904

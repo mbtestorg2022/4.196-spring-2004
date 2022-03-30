@@ -8,6 +8,7 @@ image_metadata:
   caption: The park in front of the site.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: The park in front of the site.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba02.jpg
 uid: ebf6fcaa-b1ea-1833-7a9f-ed086b14bf9a

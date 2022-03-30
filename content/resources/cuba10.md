@@ -8,6 +8,7 @@ image_metadata:
   caption: Sketching at a village in the countryside.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: Sketching at a village in the countryside.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba10.jpg
 uid: ccf8d513-f60d-fb44-7845-035a1c10fa80

@@ -7,6 +7,7 @@ image_metadata:
   caption: Detail of the final model by Elliot Felix.
   credit: Image courtesy of OCW.
   image-alt: Work by Elliot Felix.
+parent_uid: 9a0c3636-30a3-ad74-1e1b-96382ad91282
 resourcetype: Image
 title: edf10.jpg
 uid: 4dc22dc4-dc38-fe36-8034-5e6ee26027b5

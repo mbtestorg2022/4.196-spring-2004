@@ -8,6 +8,7 @@ image_metadata:
   caption: More rooftops, viewed from the highest building on the site.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: More rooftops, viewed from the highest building on the site.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba05.jpg
 uid: 77279483-0de0-9f12-a198-908c07023290

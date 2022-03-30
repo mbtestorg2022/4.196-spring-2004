@@ -7,6 +7,7 @@ image_metadata:
   caption: Sketch model by Katice Helinski.
   credit: Image courtesy of OCW.
   image-alt: Work by Katice Helinski.
+parent_uid: 9a0c3636-30a3-ad74-1e1b-96382ad91282
 resourcetype: Image
 title: katicel01.jpg
 uid: eedadaa6-5fd5-afb1-bd28-a402fbfdf5bb

@@ -8,6 +8,7 @@ image_metadata:
   caption: The rooftops of the site.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: The rooftops of the site.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba04.jpg
 uid: 2573641d-3e91-534e-fd88-9bd0be5130b0

@@ -8,6 +8,7 @@ image_metadata:
   caption: A typical street in the area.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: A typical street in the area.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba06.jpg
 uid: 2ff42fe8-2583-7936-08b6-b1c8ee91d74d

@@ -8,6 +8,7 @@ image_metadata:
   caption: A typical house for eight to ten families.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.
   image-alt: A typical house for eight to ten families.
+parent_uid: 693a15a7-dfab-f65d-8325-e7f4942f0a8a
 resourcetype: Image
 title: cuba07.jpg
 uid: a61bbc1f-2796-10d9-8fee-863db97a103c
